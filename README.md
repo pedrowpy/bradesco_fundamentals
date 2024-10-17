@@ -16,10 +16,6 @@ Evento exclusivo do Fundação Bradesco para ensino de tecnologias WEB.
 
 <br>
 
-<p align="center">
-  <img alt="projeto" src="./assets/preview.jpg" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
