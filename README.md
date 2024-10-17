@@ -20,7 +20,7 @@ Evento exclusivo do Fundação Bradesco para ensino de tecnologias WEB.
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
+- Javascript, HTML e CSS
 - Git e Github
 
 ## 💻 Projeto
